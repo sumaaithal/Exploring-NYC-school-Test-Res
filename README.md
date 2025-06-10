@@ -40,8 +40,6 @@ The dataset `schools.csv` contains SAT performance data for NYC public high scho
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib / Seaborn
 - Jupyter Notebook
 
 ---
@@ -58,7 +56,7 @@ The dataset `schools.csv` contains SAT performance data for NYC public high scho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nyc-sat-analysis.git
+   git clone https://github.com/yourusername/Exploring-NYC-school-Test-Res.git
 
 2. Open analysis.ipynb in Jupyter Notebook or JupyterLab.
 3. Run all cells to view the analysis and visualizations.
